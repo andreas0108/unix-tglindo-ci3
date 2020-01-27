@@ -6,7 +6,7 @@ Cara penggunaan unix_indo($unixtime, $format)
 Format : 
 
 Single Digit
-*d = detik, m = menit, j = jam
+* d = detik, m = menit, j = jam
 *h = hari (full)
 *t = tanggal, b = bulan, T = Tahun
 
