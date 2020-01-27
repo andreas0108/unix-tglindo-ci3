@@ -1,11 +1,10 @@
 Konversi UNIX Time stamp ke Tanggal Indonesia
 merubah xxxxxxxxxx -> format tanggal indonesia
 
-Cara penggunaan unix_indo($unixtime, $format)
+* Cara penggunaan unix_indo($unixtime, $format)
 
 Format : 
-
-Single Digit
+Single Digit :
 * d (detik) = 01
 * m (menit) = 50
 * j (jam)   = 22
@@ -15,7 +14,7 @@ Single Digit
 * b (bulan)   = 12
 * T (Tahun)   = 2019
 
-Kombinasi
+Kombinasi :
 * jm  = 10:20
 * jam = 10:20:30
 
